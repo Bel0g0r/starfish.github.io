@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/starfish.github.io/static/css/main.8af72d0e.chunk.css",
-    "main.js": "/starfish.github.io/static/js/main.c5be08e7.chunk.js",
-    "main.js.map": "/starfish.github.io/static/js/main.c5be08e7.chunk.js.map",
+    "main.js": "/starfish.github.io/static/js/main.db542bfd.chunk.js",
+    "main.js.map": "/starfish.github.io/static/js/main.db542bfd.chunk.js.map",
     "runtime-main.js": "/starfish.github.io/static/js/runtime-main.b6517369.js",
     "runtime-main.js.map": "/starfish.github.io/static/js/runtime-main.b6517369.js.map",
     "static/css/2.2cfa1b23.chunk.css": "/starfish.github.io/static/css/2.2cfa1b23.chunk.css",
-    "static/js/2.050c40f0.chunk.js": "/starfish.github.io/static/js/2.050c40f0.chunk.js",
-    "static/js/2.050c40f0.chunk.js.map": "/starfish.github.io/static/js/2.050c40f0.chunk.js.map",
+    "static/js/2.6356627d.chunk.js": "/starfish.github.io/static/js/2.6356627d.chunk.js",
+    "static/js/2.6356627d.chunk.js.map": "/starfish.github.io/static/js/2.6356627d.chunk.js.map",
     "index.html": "/starfish.github.io/index.html",
-    "precache-manifest.9b4dc99a7ab5fb0a20d8948a4bab56d4.js": "/starfish.github.io/precache-manifest.9b4dc99a7ab5fb0a20d8948a4bab56d4.js",
+    "precache-manifest.0c5ec1afa907c38c36515044d4152be1.js": "/starfish.github.io/precache-manifest.0c5ec1afa907c38c36515044d4152be1.js",
     "service-worker.js": "/starfish.github.io/service-worker.js",
     "static/css/2.2cfa1b23.chunk.css.map": "/starfish.github.io/static/css/2.2cfa1b23.chunk.css.map",
     "static/css/main.8af72d0e.chunk.css.map": "/starfish.github.io/static/css/main.8af72d0e.chunk.css.map",
-    "static/js/2.050c40f0.chunk.js.LICENSE.txt": "/starfish.github.io/static/js/2.050c40f0.chunk.js.LICENSE.txt",
+    "static/js/2.6356627d.chunk.js.LICENSE.txt": "/starfish.github.io/static/js/2.6356627d.chunk.js.LICENSE.txt",
     "static/media/persik.png": "/starfish.github.io/static/media/persik.4e1ec840.png"
   },
   "entrypoints": [
     "static/js/runtime-main.b6517369.js",
     "static/css/2.2cfa1b23.chunk.css",
-    "static/js/2.050c40f0.chunk.js",
+    "static/js/2.6356627d.chunk.js",
     "static/css/main.8af72d0e.chunk.css",
-    "static/js/main.c5be08e7.chunk.js"
+    "static/js/main.db542bfd.chunk.js"
   ]
 }
