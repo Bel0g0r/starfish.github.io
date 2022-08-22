@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/starfish.github.io/precache-manifest.0c5ec1afa907c38c36515044d4152be1.js"
+  "/starfish.github.io/precache-manifest.95cbb3452e4df8c8a673d066c155f61f.js"
 );
 
 self.addEventListener('message', (event) => {
